@@ -48,7 +48,7 @@ We decided we’d start small and work our way up to the larger assignments. Her
 As an instructor to all these new tech writers, my role felt a bit like _Senior Technical Writer_. I had to create all these assignments, teach them how to do well, schedule out the deadlines with enough time, provide detailed feedback after first submission, and in some instances revising, think aloud user-testing, and resubmitting of documents. 
 ## Documentation: 
 ### Assignment Guidelines:
-Assignment Guideline documents that explain the required task
+Assignment Guideline documents that explain the required task (Explain)
 
 ### Grading Rubrics:
 Grading rubrics are used to make grading consistent, understandable, and precise among instructors and courses. These rubrics had to meet the grading descriptors of NU. This table is an example of the A category according to NU:
@@ -70,3 +70,5 @@ In order to make sure there is consistency between sections, I came up with a [T
 |---|---|---|---|
 | highly, effective, masterful, expertly, sophisticated, excellent, very, really well, most, all, incredibly, fully, completely meticulously, strong.| This column mostly lacks modifiers. Simply fulfills guidelines.|lacks, somewhat, mostly, a lot, some many are not, don’t always, not always, doesn’t completely, attempted, basic standard, passable.|This column is mostly a negation of what it says in either column A or B|
 
+#### The New Rubrics:
+Using NU grading descriptors, Technical Writing Buzz Words, and my knowledge of the discipline, I created rubrics for each assignment—with a proper redesign: (Imbed the table into the document?)
