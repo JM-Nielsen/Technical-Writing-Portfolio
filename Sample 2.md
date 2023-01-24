@@ -1,7 +1,7 @@
 # Sample 2: Curriculum Documentation and Breakdown  
 ![Page Banner](https://user-images.githubusercontent.com/122343682/214282511-0f33dc39-4dfb-438f-b11a-3c5ca8cc562f.jpg)
 
-This document will do two things: showcases my ability to use Markdown and Github, breakdown the tech writing process to creating curriculum documentation. 
+This document will do two things: showcases my ability to use Markdown and Github, breakdown my writing process in creating curriculum documentation. 
 
 Quick access: [Google Drive Writing Portfolio](https://drive.google.com/drive/u/1/folders/1VhpufrVIxPvAQPjMgQsXwmbJ6n04ECbd)
 ## Introduction:
