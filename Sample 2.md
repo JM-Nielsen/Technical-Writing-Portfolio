@@ -72,3 +72,5 @@ In order to make sure there is consistency between sections, I came up with a [T
 
 #### The New Rubrics:
 Using NU grading descriptors, Technical Writing Buzz Words, and my knowledge of the discipline, I created rubrics for each assignment—with a proper redesign: (Imbed the table into the document?)
+
+(Work in progress)
