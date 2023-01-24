@@ -2,7 +2,7 @@
 This document will do two things: showcases my ability to use Markdown and Github, breakdown the tech writing process to creating curriculum documentation. 
 
 Quick access: [Google Drive Writing Portfolio](https://drive.google.com/drive/u/1/folders/1VhpufrVIxPvAQPjMgQsXwmbJ6n04ECbd)
-
+## Introduction:
 In 2018 I was asked to create a Technical and Professional Writing course for engineers and computer scientists that satisfied all parties:
 * School of Sciences and Humanities
   * Teaching and learning committee
@@ -12,18 +12,18 @@ In 2018 I was asked to create a Technical and Professional Writing course for en
 * Kazakhstani students
 * [ABET](https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2023-2024/) accreditation 
 
-After a lot of reading of scholarly texts, interviewing SMEs, looking at other tech writing curricula, and conducting my own primary academic research, I settled on these **Learning Outcomes**:  
+After a lot of reading of scholarly texts, interviewing SMEs, looking at other tech writing curricula, and conducting my own primary research, I settled on these **Learning Outcomes**:  
 >1. Identify and understand the structures and functions of primary genres of technical writing.  
 >2. Analyze and adapt to the constraints of specific rhetorical situations, including audiences, purposes, modality, and use.  
 >3. Integrate tables, figures, and other images into documents.  
 >4. Individually and collaboratively produce and present technical documents, including research reports, that are accessible to non-specialist audiences.  
 >5. Demonstrate the ethical use of sources and appropriate citation conventions.  
 
-Once these are approved by the Teaching and Learning Committee, they cannot be change without further approval. Likewise, each assignment, assessments and policy needed to fit these outcomes as they would lay our course foundation.
-* _ABET_ accreditation requires ethnics and writing (LO 5), 
-* chemistry students are required to write to non-specialist audiences (LO 4), 
-* engineering faculty wanted students to be able to better integrate tables and figures into documents (LO 3), 
-* and a lot of the technical writing theory is about the rhetorical situation (LO 2), 
+Once these were approved by the Teaching and Learning Committee, they couldn't be change without further approval. Likewise, each assignment, assessments and policy needed to fit these outcomes.
+* _ABET_ accreditation requires ethnics and writing (**LO5**), 
+* chemistry students are required to write to non-specialist audiences (**LO4**), 
+* engineering faculty wanted students to be able to better integrate tables and figures into documents (**LO3**), 
+* and a lot of the technical writing theory is about the rhetorical situation (**LO2**), 
   * including audience, 
   * purposes, 
   * modality, 
@@ -43,19 +43,28 @@ We decided we’d start small and work out way up to the larger assignments. Her
 
 
 As an instructor to all these new tech writers, my role felt a bit like _Senior Technical Writer_. I had to create all these assignments, teach them how to do well, schedule out the deadlines with enough time, provide detailed feedback after first submission, and in some instances revising, think aloud user-testing, and resubmitting of documents. 
-Regarding Documentation: 
-Assignment Guidelines:
+## Documentation: 
+### Assignment Guidelines:
 Assignment Guideline documents that explain the required task
 
-Grading Rubrics:
-Grading rubrics that allow for more ethnical and consistent grading among sections and instructors
-    - These should also be helpful for students in understanding requirements
-The Nazarbayev University Writing Center already had rubrics and the director asked me to model mine off this genre. These rubrics also had to meet the grading descriptors of NU. This table is an example of the A category according to NU. Therefore, my grading descriptors needed to match this:
-
+### Grading Rubrics:
+Grading rubrics are used to make grading consistent, understandable, and precise among instructors and courses. These rubrics had to meet the grading descriptors of NU. This table is an example of the A category according to NU:
 |Grade|%|Explanation|
 |:----:| :----:| :--- |
 |A|95-100|Excellent, exceeds the highest standards in the assignment or course|
 |A-|90-94.9|Excellent; meets the highest standards for the assignment or course|
 
+Likewise, an existing sample of this genre and it's conventions already existed in the Writing Center. I was asked to fit my new rubrics into this general style. 
+Previous Rubric Example (image here)
+  
+>I immediately noticed a few needed updates:  
+>Instructors weren’t using the notes column(image here)   
+>The first title column was taking up a lot of unnecessary space(image here)  
+>The document is bloated with information, which makes things feel squished(image here)  
 
+In order to make sure there is consistency between sections, I came up with a [Technical Writing Buzz Words document](https://docs.google.com/document/d/1IgRRroap_T2oNjAx2CWZKkTux3S1Ufsw/edit) based on _Technical Communication_ by Mike Markel that would help me describe quality in categories from A to D:
+
+|  A   |   B  |  C   |  D   |
+|---|---|---|---|
+| highly, effective, masterful, expertly, sophisticated, excellent, very, really well, most, all, incredibly, fully, completely meticulously, strong.| This column mostly lacks modifiers. Simply fulfills guidelines.|lacks, somewhat, mostly, a lot, some many are not, don’t always, not always, doesn’t completely, attempted, basic standard, passable.|This column is mostly a negation of what it says in either column A or B|
 
