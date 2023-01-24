@@ -1,4 +1,6 @@
-# Sample 2: Technical Writing Curriculum Documentation and Breakdown
+# Sample 2: Curriculum Documentation and Breakdown  
+![Page Banner](https://user-images.githubusercontent.com/122343682/214282511-0f33dc39-4dfb-438f-b11a-3c5ca8cc562f.jpg)
+
 This document will do two things: showcases my ability to use Markdown and Github, breakdown the tech writing process to creating curriculum documentation. 
 
 Quick access: [Google Drive Writing Portfolio](https://drive.google.com/drive/u/1/folders/1VhpufrVIxPvAQPjMgQsXwmbJ6n04ECbd)
@@ -19,7 +21,7 @@ After a lot of reading of scholarly texts, interviewing SMEs, looking at other t
 >4. Individually and collaboratively produce and present technical documents, including research reports, that are accessible to non-specialist audiences.  
 >5. Demonstrate the ethical use of sources and appropriate citation conventions.  
 
-Once these were approved by the Teaching and Learning Committee, they couldn't be change without further approval. Likewise, each assignment, assessments and policy needed to fit these outcomes.
+Once these were approved by the Teaching and Learning Committee, they can't be change without further approval. Likewise, each assignment, assessments and policy needed to fit these outcomes.
 * _ABET_ accreditation requires ethnics and writing (**LO5**), 
 * chemistry students are required to write to non-specialist audiences (**LO4**), 
 * engineering faculty wanted students to be able to better integrate tables and figures into documents (**LO3**), 
@@ -27,10 +29,11 @@ Once these were approved by the Teaching and Learning Committee, they couldn't b
   * including audience, 
   * purposes, 
   * modality, 
-  * and use.
+  * and use.  
+
 Therefore, these **LO**s worked well. 
 
-We decided we’d start small and work out way up to the larger assignments. Here is all our course summative assessments, what they are worth, a description, and when they are due. 
+We decided we’d start small and work our way up to the larger assignments. Here is all our **Course Summative Assessments**, what they are worth, a description, and when they are due. 
 
 | Assignment                        | %    | Description                                   | Due   |   
 | :---                              |:----:| :---                                          |:---   |
@@ -54,13 +57,12 @@ Grading rubrics are used to make grading consistent, understandable, and precise
 |A|95-100|Excellent, exceeds the highest standards in the assignment or course|
 |A-|90-94.9|Excellent; meets the highest standards for the assignment or course|
 
-Likewise, an existing sample of this genre and it's conventions already existed in the Writing Center. I was asked to fit my new rubrics into this general style. 
-Previous Rubric Example (image here)
-  
->I immediately noticed a few needed updates:  
+Likewise, an existing sample of this genre and it's conventions already existed in the Writing Center. I was asked to fit my new rubrics into this general style.   
+
+Previous Rubric Needed Work:   
 >Instructors weren’t using the notes column(image here)   
 >The first title column was taking up a lot of unnecessary space(image here)  
->The document is bloated with information, which makes things feel squished(image here)  
+>The document is bloated with information, which makes things feel squished(image here)  (Make all this in Illustrator? as a single doc?)
 
 In order to make sure there is consistency between sections, I came up with a [Technical Writing Buzz Words document](https://docs.google.com/document/d/1IgRRroap_T2oNjAx2CWZKkTux3S1Ufsw/edit) based on _Technical Communication_ by Mike Markel that would help me describe quality in categories from A to D:
 
