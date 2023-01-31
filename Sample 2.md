@@ -1,17 +1,21 @@
-# Sample 2: Curriculum Documentation and Breakdown  
+<a name="backtotop"></a>
+# Sample 2: Technical Writing Curriculum Documentation
 ![Page Banner](https://user-images.githubusercontent.com/122343682/214282511-0f33dc39-4dfb-438f-b11a-3c5ca8cc562f.jpg)
 
-<p align="center">This document will: showcases my ability to use Markdown and Github and breakdown my writing process in creating curriculum documentation.</p>
+<p align="center">This document will showcases my ability to use Markdown and Github and breakdown my writing process for curriculum documentation.</p>
 
 
 # Table of Contents
-1. [Introduction](#introduction)
-2. [Documentation](#documentation)
-    1. [Assignment Guidelines](#assignmentguidelines)
-3. [Grading Rubrics](#gradingrubrics)
-    1. [NU Grading Descriptors](#nugradingdescriptors)
-    2. [Genre Conventions](#genreconventions)
-    3. [The New Rubrics](#thenewrubrics)
+* [Introduction](#introduction)
+* [Documentation](#documentation)
+    * [Assignment Guidelines](#assignmentguidelines)
+    * [Grading Rubrics](#gradingrubrics)
+        * [Grading Descriptors](#nugradingdescriptors)
+        * [Genre Conventions](#genreconventions)
+        * [The New Rubrics](#thenewrubrics)
+        * [Updating The Old Rubrics](#updatingtheoldrubrics)
+        * [The Final Product](#thefinalproduct) 
+
 
 Quick Access: [Google Drive Curriculum Portfolio](https://drive.google.com/drive/u/1/folders/1VhpufrVIxPvAQPjMgQsXwmbJ6n04ECbd)
 
@@ -33,12 +37,12 @@ After a lot of reading of scholarly texts, interviewing SMEs, looking at other t
 >4. Individually and collaboratively produce and present technical documents, including research reports, that are accessible to non-specialist audiences.  
 >5. Demonstrate the ethical use of sources and appropriate citation conventions.  
 
-Once these are approved by the TLC, they can't be changed without further approval.
+Once approved, learning outcomes should not change unless approved again.
 
 As an example, these outcomes specifically met the needs of:
 * _ABET_ accreditation: requires ethnics and writing (**LO5**), 
-* chemistry students: required to write to non-specialist audiences (**LO4**), 
-* engineering faculty: wanted students to be able to better integrate tables and figures into documents (**LO3**), 
+* Dhemistry students: required to write to non-specialist audiences (**LO4**), 
+* Engineering faculty: wanted students to be able to better integrate tables and figures into documents (**LO3**), 
 * Technical writing theory: informed students of the rhetorical situation (**LO2**), 
   * including audience, 
   * purposes, 
@@ -78,8 +82,8 @@ Assignment guidelines were constructed by me and reviewed by my peers. Each guid
 
 Revisions: 
 Every year assignment guidelines are revised to meet current expectations as well as student and instructor needs. For example, these documents used to include a checklist taken from _Technical Communication_ by Mike Markel, as well as more specific detail. Through in-class research (see: User Testing), we noticed students didn’t use these sections, so they were removed.
-Example Guidelines: ![Tech Instructions Assignment Guidelines 2023-1](https://user-images.githubusercontent.com/122343682/215710476-cdef12f9-294c-4389-b55f-12d34c832cdc.png)
-
+Example Assignment Guidelines: ![Tech Instructions Assignment Guidelines 2023-1](https://user-images.githubusercontent.com/122343682/215710476-cdef12f9-294c-4389-b55f-12d34c832cdc.png)
+All other created assignment guidelines can be found in PDF format on [Google Drive.](https://drive.google.com/drive/u/1/folders/12ILlYdfHhPdAJVm-YeQNv2BpJH-dM2LQ) You can also access all archived guidelines since they were initially created in 2019. 
 
 <a name="gradingrubrics"></a>
 ### Grading Rubrics:
@@ -111,12 +115,46 @@ In order to make sure consistency exists between sections, I created this [Techn
 
 <a name="thenewrubrics"></a>
 #### The New Rubrics:
-Using NU grading descriptors, Technical Writing Buzz Words, and my knowledge of the discipline, I created rubrics for each assignment—with a proper redesign. 
 
-I quickly noticed a few issues with the rubrics:
+I noticed a few issues with the old rubrics:
 * Instructors weren’t using the notes column  
 * The first column was taking up a lot of unnecessary space
-* The complete document is very text heavy
+* The document is text heavy
+* The design does not complement the text
 
-(Work in progress)
+Using NU grading descriptors, Technical Writing Buzz Words, and my knowledge of the discipline, I created rubrics for each assignment—with a proper redesign based on what I noticed above.
 
+<a name="updatingtheoldrubrics"></a> 
+**Updating Old Rubrics:** Below you can see an example of the original, and how I adapted it to fit this class. 
+
+![Old Rubric](https://user-images.githubusercontent.com/122343682/215754114-ed64eac2-043b-424a-b67b-3de3ed0526ac.png)
+
+* Deleting the unused notes column provides more space for the text in columns 2-5. 
+* Writing the text vertically in column one also grants more space to the rest of the document. 
+* Unfortunately, I still had to stack columns 2-5 with a lot of text; however, I used design to better complement the text and make it feel less crowded by removing column dividers and using desaturated, lighter colors.
+
+<a name="thefinalproduct"></a> 
+**The final Product:** 
+
+![New Rubric](https://user-images.githubusercontent.com/122343682/215754610-108293b0-4c47-4231-ad2c-d37fc6ad8aa8.png)
+
+
+Conclusion: What I love most about technical writing is the ability to solve problems through effective communication. It actually excites me to think about! I really enjoy finding ways to organize and write complicated, technical information in a way that is accessible to a specific audience. In this case, I was able to use my technical writing ability to create Technical and Professional Writing, which I’ve now taught for 4 years. Thousands of engineers, natural scientists, computer scientists, and others have benefited from taking this course at the largest and most prestigious university in Kazakhstan and Central Asia. 
+
+All other created rubrics can be found in PDF format on [Google Drive.](https://drive.google.com/drive/u/1/folders/1kcN7Wb3Tnf-e8ViX41Pw_TTa466PxLRC) You can also access all archived guidelines since they were initially created in 2019. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### [Back to Top](#backtotop)
