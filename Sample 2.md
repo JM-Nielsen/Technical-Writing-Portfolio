@@ -1,20 +1,19 @@
 <a name="backtotop"></a>
 # Sample 2: Technical Writing Curriculum Documentation
-![Page Banner](https://user-images.githubusercontent.com/122343682/214282511-0f33dc39-4dfb-438f-b11a-3c5ca8cc562f.jpg)
-
+![veryveryprettyandhappyandniceAsset 5-50](https://user-images.githubusercontent.com/122343682/216251207-f2a5e9e1-046f-452d-ac9b-c031a5ac7a28.jpg)
 <p align="center">This document will showcases my ability to use Markdown and Github and breakdown my writing process for curriculum documentation.</p>
 
 
 # Table of Contents
 * [Introduction](#introduction)
 * [Documentation](#documentation)
-    * [Assignment Guidelines](#assignmentguidelines)
-    * [Grading Rubrics](#gradingrubrics)
-        * [Grading Descriptors](#nugradingdescriptors)
-        * [Genre Conventions](#genreconventions)
-        * [The New Rubrics](#thenewrubrics)
-        * [Updating The Old Rubrics](#updatingtheoldrubrics)
-        * [The Final Product](#thefinalproduct) 
+    * [Assignment guidelines](#assignmentguidelines)
+    * [Grading rubrics](#gradingrubrics)
+        * [Grading descriptors](#nugradingdescriptors)
+        * [Genre conventions](#genreconventions)
+        * [The new rubrics](#thenewrubrics)
+        * [Updating the old rubrics](#updatingtheoldrubrics)
+        * [The final product](#thefinalproduct) 
 
 
 Quick Access: [Google Drive Curriculum Portfolio](https://drive.google.com/drive/u/1/folders/1VhpufrVIxPvAQPjMgQsXwmbJ6n04ECbd)
@@ -117,7 +116,7 @@ In order to make sure consistency exists between sections, I created this [Techn
 #### The New Rubrics:
 
 I noticed a few issues with the old rubrics:
-* Instructors weren’t using the notes column  
+* Instructors weren’t using the Points column  
 * The first column was taking up a lot of unnecessary space
 * The document is text heavy
 * The design does not complement the text
@@ -127,11 +126,11 @@ Using NU grading descriptors, Technical Writing Buzz Words, and my knowledge of 
 <a name="updatingtheoldrubrics"></a> 
 **Updating Old Rubrics:** Below you can see an example of the original, and how I adapted it to fit this class. 
 
-![Old Rubric](https://user-images.githubusercontent.com/122343682/215754114-ed64eac2-043b-424a-b67b-3de3ed0526ac.png)
+![Points Column](https://user-images.githubusercontent.com/122343682/216281467-01ee567d-9782-438e-b15a-e06fa224184f.png)
 
-* Deleting the unused notes column provides more space for the text in columns 2-5. 
-* Writing the text vertically in column one also grants more space to the rest of the document. 
-* Unfortunately, I still had to stack columns 2-5 with a lot of text; however, I used design to better complement the text and make it feel less crowded by removing column dividers and using desaturated, lighter colors.
+![Column 1 Space](https://user-images.githubusercontent.com/122343682/216283556-f09aa8cc-573e-49a0-a38a-f10dbbbc3702.png)
+
+![EffectiveDesign](https://user-images.githubusercontent.com/122343682/216284720-ef64c1e1-88e7-4890-b2aa-27820bbcd947.png)
 
 <a name="thefinalproduct"></a> 
 **The final Product:** 
@@ -139,7 +138,7 @@ Using NU grading descriptors, Technical Writing Buzz Words, and my knowledge of 
 ![New Rubric](https://user-images.githubusercontent.com/122343682/215754610-108293b0-4c47-4231-ad2c-d37fc6ad8aa8.png)
 
 
-Conclusion: What I love most about technical writing is the ability to solve problems through effective communication. It actually excites me to think about! I really enjoy finding ways to organize and write complicated, technical information in a way that is accessible to a specific audience. In this case, I was able to use my technical writing ability to create Technical and Professional Writing, which I’ve now taught for 4 years. Thousands of engineers, natural scientists, computer scientists, and others have benefited from taking this course at the largest and most prestigious university in Kazakhstan and Central Asia. 
+Like what you see? Check out my other samples too!
 
 All other created rubrics can be found in PDF format on [Google Drive.](https://drive.google.com/drive/u/1/folders/1kcN7Wb3Tnf-e8ViX41Pw_TTa466PxLRC) You can also access all archived guidelines since they were initially created in 2019. 
 
