@@ -14,13 +14,14 @@
         * [The new rubrics](#thenewrubrics)
         * [Updating the old rubrics](#updatingtheoldrubrics)
         * [The final product](#thefinalproduct) 
+* [Conclusion] (#conclusion)
 
 
-Quick Access: [Google Drive Curriculum Portfolio](https://drive.google.com/drive/u/1/folders/1VhpufrVIxPvAQPjMgQsXwmbJ6n04ECbd)
+Quick access: [Google Drive Curriculum Portfolio](https://drive.google.com/drive/u/1/folders/1VhpufrVIxPvAQPjMgQsXwmbJ6n04ECbd)
 
 <a name="introduction"></a> 
 ## Introduction
-In 2018, I was asked to create a Technical and Professional Writing course for engineers and computer scientists that satisfied all parties:
+In 2018, I was asked to create a technical and professional writing course for engineers and computer scientists that satisfied all parties:
 * The School of Sciences and Humanities
   * The Teaching and Learning Committee (TLC)
   * My Writing Center Director
@@ -40,7 +41,7 @@ Once approved, learning outcomes should not change unless approved again.
 
 As an example, these outcomes specifically met the needs of:
 * _ABET_ accreditation: requires ethnics and writing (**LO5**), 
-* Dhemistry students: required to write to non-specialist audiences (**LO4**), 
+* Chemistry students: required to write to non-specialist audiences (**LO4**), 
 * Engineering faculty: wanted students to be able to better integrate tables and figures into documents (**LO3**), 
 * Technical writing theory: informed students of the rhetorical situation (**LO2**), 
   * including audience, 
@@ -60,43 +61,49 @@ Therefore, these **LO**s worked well.
 | Usability Test and Presentation   | 15% |  Students must conduct a usability test on their technical instructions and create a digital presentation on the outcome (Collaborative).    |W7|
 | IMRaDR Report                     | 35% |  Students will write reports on their field of interest and conduct the necessary primary research in the IMRaD genre (Introduction, Methods, Results, Discussion) as well as provide recommendations on the issue/problem they choose. Recommend report front and back matter is also required. 10% of this grade is for the writing process: drafts, peer review, workshops, etc. The final draft will count for the other 25%.     |W16|
 
-All assignments were devised using Bloom's taxonomy to cirriculum development, specifically working to meet as advanced learning outcomes as possible through Bloom's top levels: create, evaluate and analyze. 
+All assignments were devised using Bloom's taxonomy to cirriculum development, specifically working to meet as advanced learning outcomes as possible through Bloom's top levels: create, evaluate, and analyze. 
 
 ![Bloom's Taxonomy](https://citt.ufl.edu/media/cittufledu/images/Blooms-Taxonomy.png)
 
 
 As Course Lead, I filled a similar roll to _Senior Technical Writer_. I created all course documentation, taught instructors to teach the course, conducted grading norming sessions to test for grading accuracy among professors, attended required Course Lead meetings, etc. 
+
 <a name="documentation"></a>
 ## Documentation
-<a name="assignmentguidelines"></a>
-### Assignment Guidelines:
 
-* Audience: Kazakhstani Students
+<a name="assignmentguidelines"></a>
+### Assignment guidelines:
+
+* Audience: Kazakhstani students
 * Purpose: Inform students on how to complete the required task
-* Genre: PDF File
-* Exigency: Students need to understand the assignment in order to pass the class; Professors need proof of expected guidelines for grading and accuracy consistent across sections. 
+* Genre: PDF file
+* Exigency: Students need to understand the assignment in order to pass the class; Professors need proof of expected guidelines for grading and accuracy, consistent across sections. 
 
 
 Assignment guidelines were constructed by me and reviewed by my peers. Each guideline was created to provide succinct background details on the genre as well as a superficial step-by-step guide. Because each instructor is allowed to deviate somewhat from the guidelines, they need to be written generally. 
 
 Revisions: 
-Every year assignment guidelines are revised to meet current expectations as well as student and instructor needs. For example, these documents used to include a checklist taken from _Technical Communication_ by Mike Markel, as well as more specific detail. Through in-class research (see: User Testing), we noticed students didn’t use these sections, so they were removed.
-Example Assignment Guidelines: ![Tech Instructions Assignment Guidelines 2023-1](https://user-images.githubusercontent.com/122343682/215710476-cdef12f9-294c-4389-b55f-12d34c832cdc.png)
+
+Every year assignment guidelines are revised to meet current expectations as well as student and instructor needs. For example, these documents used to include a checklist taken from _Technical Communication_ by Mike Markel, as well as more specific detail. Through in-class research (see: user testing), we noticed students didn’t use these sections, so they were removed.
+
+**Example assignment guidelines:** 
+
+![Tech Instructions Assignment Guidelines 2023-1](https://user-images.githubusercontent.com/122343682/215710476-cdef12f9-294c-4389-b55f-12d34c832cdc.png)
 All other created assignment guidelines can be found in PDF format on [Google Drive.](https://drive.google.com/drive/u/1/folders/12ILlYdfHhPdAJVm-YeQNv2BpJH-dM2LQ) You can also access all archived guidelines since they were initially created in 2019. 
 
 <a name="gradingrubrics"></a>
-### Grading Rubrics:
-Grading rubrics are used to make grading consistent, understandable, and precise among instructors and across sections. These rubrics had to meet these requirements:
+### Grading rubrics:
+Grading rubrics are used to make grading consistent, understandable, and precise among instructors and across sections. These rubrics had to meet NU grading descriptors and genre conventions. 
 
 <a name="nugradingdescriptors"></a>
-**NU Grading Descriptors:** NU requires instructors to follow their grading scheme. This table is an example of the A category according to NU:
+**NU grading descriptors:** NU requires instructors to follow their grading scheme. This table is an example of the A category according to NU:
 |Grade|%|Explanation|
 |:----:| :----:| :--- |
 |A|95-100|Excellent, exceeds the highest standards in the assignment or course|
 |A-|90-94.9|Excellent; meets the highest standards for the assignment or course|
 
 <a name="genreconventions"></a>
-**Genre Conventions:** While I was tasked with creating rubrics from scratch for technical writing, an existing sample of this genre and it's conventions already existed in the Writing Center for lower level courses. I was asked to fit my new rubrics into this general format:  
+**Genre conventions:** While I was tasked with creating rubrics from scratch for technical writing, an existing sample of this genre and it's conventions already existed in the Writing Center for lower level courses. I was asked to fit my new rubrics into this general format:  
 |             | Excellent (A range) | Successful (B range) | Developing (C range) | Unsatisfactory (D and below) | Points |
 |-------------|---------------------|----------------------|----------------------|------------------------------|--------|
 | Content (%) |                     |                      |                      |                              |        |
@@ -113,7 +120,7 @@ In order to make sure consistency exists between sections, I created this [Techn
 | highly, effective, masterful, expertly, sophisticated, excellent, very, really well, most, all, incredibly, fully, completely meticulously, strong.| This column mostly lacks modifiers. Simply fulfills guidelines.|lacks, somewhat, mostly, a lot, some many are not, don’t always, not always, doesn’t completely, attempted, basic standard, passable.|This column is mostly a negation of what it says in either column A or B|
 
 <a name="thenewrubrics"></a>
-#### The New Rubrics:
+#### The new rubrics:
 
 I noticed a few issues with the old rubrics:
 * Instructors weren’t using the Points column  
@@ -124,7 +131,7 @@ I noticed a few issues with the old rubrics:
 Using NU grading descriptors, Technical Writing Buzz Words, and my knowledge of the discipline, I created rubrics for each assignment—with a proper redesign based on what I noticed above.
 
 <a name="updatingtheoldrubrics"></a> 
-**Updating Old Rubrics:** Below you can see an example of the original, and how I adapted it to fit this class. 
+**Updating old rubrics:** Below you can see examples of the original as we as how I adapted them to fit this class. 
 
 ![Points Column](https://user-images.githubusercontent.com/122343682/216281467-01ee567d-9782-438e-b15a-e06fa224184f.png)
 
@@ -137,23 +144,26 @@ Using NU grading descriptors, Technical Writing Buzz Words, and my knowledge of 
 
 ![New Rubric](https://user-images.githubusercontent.com/122343682/215754610-108293b0-4c47-4231-ad2c-d37fc6ad8aa8.png)
 
+<a name="conclusion"></a> 
+# Conclusion
+This page illustrates my ability to write technically in unique situations while considering purpose, audience, and genre. What I've done here has and can be replicated in many other sphere's of technical writing. 
 
-Like what you see? Check out my other samples too!
+All other curriculum documentation can be found on [Google Drive.](https://drive.google.com/drive/u/1/folders/1kcN7Wb3Tnf-e8ViX41Pw_TTa466PxLRC)
 
-All other created rubrics can be found in PDF format on [Google Drive.](https://drive.google.com/drive/u/1/folders/1kcN7Wb3Tnf-e8ViX41Pw_TTa466PxLRC) You can also access all archived guidelines since they were initially created in 2019. 
-
-
-
-
-
-
-
-
-
-
+Like what you see? Check out my other writing samples too! 
 
 
 
 
 
 ### [Back to Top](#backtotop)
+
+
+
+
+
+
+
+
+
+
